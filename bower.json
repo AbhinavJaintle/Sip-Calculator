@@ -1,0 +1,21 @@
+{
+  "name": "bower",
+  "homepage": "https://github.com/AbhinavJaintle/Sip-Calculator",
+  "authors": [
+    "AbhinavJaintle <2020kucp1018@iiitkota.ac.in>"
+  ],
+  "description": "bower.json file",
+  "main": "sip",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
